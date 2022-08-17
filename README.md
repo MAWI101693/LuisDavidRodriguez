@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 I'm a full-stack software developer. I founded a company and gathered a lot of experience with upteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed all my life to reach the coveted dream of working with AI and changing the world!
 #### Web developer (JavaScript, css, sass, bootstrap, React, Jest) and also experienced in Java, C++, SQL, PHP, Android apps.
 
+------
 I really love always being learning. When I’m not Codding and trying new languages in [FreeCodeCamp](https://www.freecodecamp.org/luisdavid) and with personal projects. I spend my free time reading books in English and French in the app, [![LingQ Badge](https://img.shields.io/badge/-LingQ-ffc629?style=flat-square&labelColor=ffc629&logo=lingq&logoColor=white&link=https://www.lingq.com/en/learn/en/web/library)](https://www.lingq.com/en/learn/en/web/library), also I love going to the **real world** being in the sky or the sea!! I love scubaDiving I had my OpenWaterDiver licence, and I'm looking forward to get an skyDiving license to earn enogh experiency and reach the wingSuit licence.
 
 
