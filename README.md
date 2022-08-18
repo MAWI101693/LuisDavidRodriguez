@@ -32,6 +32,6 @@ I really love always being learning. When I’m not Codding and trying new langu
 > send me a message event if it is not for work we can talk about scubaDiving and SkyDiving you could realize that not only am I a developer but also:
 > - a Friend
 > - a Partner
-> - and more over a Parent 🥰!
+> - and above all a parent 🥰!
 
 ![Mi video-7](https://user-images.githubusercontent.com/105079888/184388987-23ba5f30-5776-493d-b5ad-be99a27c459b.gif)
