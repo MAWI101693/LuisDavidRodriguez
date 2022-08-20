@@ -35,8 +35,8 @@ I really love always being learning. When I’m not Codding and trying new langu
 > - a Partner
 > - and above all a parent 🥰!
 
-<div align="center">
-  <img style="margin: 3px" src="https://user-images.githubusercontent.com/105079888/184388987-23ba5f30-5776-493d-b5ad-be99a27c459b.gif" alt="Baby" height="500px" />
+<div align="start">
+  <img style="margin: 50px" src="https://user-images.githubusercontent.com/105079888/184388987-23ba5f30-5776-493d-b5ad-be99a27c459b.gif" alt="Baby" height="500px" />
 </div>
 
 
@@ -77,7 +77,7 @@ I really love always being learning. When I’m not Codding and trying new langu
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -86,10 +86,10 @@ I really love always being learning. When I’m not Codding and trying new langu
 
 ### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
 </td></tr></table>  
