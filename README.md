@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 [![youtube Badge](https://img.shields.io/badge/-Luis_David_-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)](https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)
 
 #### Web developer (JavaScript, CSS, SASS, BootStrap, React, Jest) and also experienced in Java, C++, SQL, PHP, Android apps.
-*I'm a full-stack software developer. I founded a company and gathered a lot of experience with upteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed all my life becoming a professional developer therefore being closer to reach the coveted dream of working with Artificial Intelligence and changing the world!*
+*I'm a full-stack software developer. I founded a company and gathered a lot of experience with umpteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed my life by becoming a professional developer, therefore, being closer to reaching the coveted dream of working with Artificial Intelligence and changing the world!*
 
 
 
 ------
-I really love always being learning. When I’m not Codding and trying new languages in [FreeCodeCamp](https://www.freecodecamp.org/luisdavid) and with personal projects. I spend my free time reading books in English and French in the app, [![LingQ Badge](https://img.shields.io/badge/-LingQ-ffc629?style=flat-square&labelColor=ffc629&logo=lingq&logoColor=white&link=https://www.lingq.com/en/learn/en/web/library)](https://www.lingq.com/en/learn/en/web/library), also I love going to the **real world** being in the sky or the sea!! I love scubaDiving I had my OpenWaterDiver licence, and I'm looking forward to get an skyDiving license to earn enogh experiency and reach the wingSuit licence.
+I love always learning. When I’m not Codding and trying new languages in [FreeCodeCamp](https://www.freecodecamp.org/luisdavid) and with personal projects. I spend my free time reading books in English and French on the app, [![LingQ Badge](https://img.shields.io/badge/-LingQ-ffc629?style=flat-square&labelColor=ffc629&logo=lingq&logoColor=white&link=https://www.lingq.com/en/learn/en/web/library)](https://www.lingq.com/en/learn/en/web/library), also I love going to the **real world** being in the sky or the sea!! I love scubaDiving I had my OpenWaterDiver license, and I'm looking forward to getting a skyDiving license to earn enough experience and reach the wingSuit license.
 
-## I'm available for hire to start working immediately and looking forward new working experiences
+## I'm available for hire to start working immediately and looking forward to new working experiences
 > Would you like to discuss further with me?
-> send me a message event if it is not for work we can talk about scubaDiving and SkyDiving you could realize that not only am I a developer but also:
+> send me a message even if it is not for work we can talk about scuba diving and SkyDiving you could realize that not only am I a developer but also:
 > - a Friend
 > - a Partner
 > - and above all a parent 🥰!
