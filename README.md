@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![youtube Badge](https://img.shields.io/badge/-Luis_David_-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)](https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)
 
 #### Web developer (JavaScript, CSS, SASS, BootStrap, React, Jest) and also experienced in Java, C++, SQL, PHP, Android apps.
-*I'm a full-stack software developer. I founded a company and gathered a lot of experience with umpteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed my life by becoming a professional developer, therefore, being closer to reaching the coveted dream of working with Artificial Intelligence and changing the world!*
+*I'm a full-stack software developer. I co-founded a company and gathered a lot of experience with umpteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed my life by becoming a professional developer, therefore, being closer to reaching the coveted dream of working with Artificial Intelligence and changing the world!*
 
 
 
