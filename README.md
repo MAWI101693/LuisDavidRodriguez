@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luis%20David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-david-rodriguez-valades-24a0a8239)](https://www.linkedin.com/in/luis-david-rodriguez-valades-24a0a8239)
-[![Turing Badge](https://img.shields.io/badge/-Turing_Profile-000000?style=flat-square&labelColor=000000&logo=Turing&logoColor=white&link=https://developers.turing.com/dashboard/finalize_my_resume)](https://developers.turing.com/dashboard/finalize_my_resume)
+[![Turing Badge](https://img.shields.io/badge/-Turing_Profile-000000?style=flat-square&labelColor=000000&logo=Turing&logoColor=white&link=https://matching.turing.com/developer-resume/293bcfce2f551f087047859cb8d59b7acb7377c1d50fa2)](https://matching.turing.com/developer-resume/293bcfce2f551f087047859cb8d59b7acb7377c1d50fa2)
 [![Twitter Badge](https://img.shields.io/badge/-@Luis_David_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LuisDavid5048)](https://twitter.com/LuisDavid5048)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-Luis_David_FreeCodeCamp-0a0a23?style=flat-square&labelColor=0a0a23&logo=freeCodecamp&logoColor=white&link=https://www.freecodecamp.org/luisdavid)](https://www.freecodecamp.org/luisdavid)
 [![youtube Badge](https://img.shields.io/badge/-Luis_David_-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)](https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)
