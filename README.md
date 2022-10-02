@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@Luis_David_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LuisDavid5048)](https://twitter.com/LuisDavid5048)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-Luis_David_FreeCodeCamp-0a0a23?style=flat-square&labelColor=0a0a23&logo=freeCodecamp&logoColor=white&link=https://www.freecodecamp.org/luisdavid)](https://www.freecodecamp.org/luisdavid)
 [![youtube Badge](https://img.shields.io/badge/-Luis_David_-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)](https://www.youtube.com/channel/UChuA4SgdDYk2DHStsy7HEgQ)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/luis-david-rodriguez-valades)
+
+
 
 #### Web developer (JavaScript, CSS, SASS, BootStrap, React, Jest) and also experienced in Java, C++, SQL, PHP, Android apps.
 *I'm a full-stack software developer. I co-founded a company and gathered a lot of experience with umpteen other languages! After realizing that it was not my real destiny to take advantage of my brain, I changed my life by becoming a professional developer, therefore, being closer to reaching the coveted dream of working with Artificial Intelligence and changing the world!*
