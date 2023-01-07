@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ------
 I love always learning. When I’m not Codding and trying new languages in [FreeCodeCamp](https://www.freecodecamp.org/luisdavid) and with personal projects. I spend my free time reading books in English and French on the app, [![LingQ Badge](https://img.shields.io/badge/-LingQ-ffc629?style=flat-square&labelColor=ffc629&logo=lingq&logoColor=white&link=https://www.lingq.com/en/learn/en/web/library)](https://www.lingq.com/en/learn/en/web/library), also I love going to the **real world** being in the sky or the sea!! I love scubaDiving I had my OpenWaterDiver license, and I'm looking forward to getting a skyDiving license to earn enough experience and reach the wingSuit license.
 
-## I'm available for hire to start working immediately and looking forward to new working experiences
 > Would you like to discuss further with me?
 > send me a message even if it is not for work we can talk about scuba diving and SkyDiving you could realize that not only am I a developer but also:
 > - a Friend
