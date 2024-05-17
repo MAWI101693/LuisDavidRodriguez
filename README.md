@@ -32,9 +32,7 @@ I love always learning. When I’m not Codding and trying new languages in [Free
 > - a Partner
 > - and above all a parent 🥰!
 
-<div align="start">
-  <img style="margin: 50px" src="https://user-images.githubusercontent.com/105079888/184388987-23ba5f30-5776-493d-b5ad-be99a27c459b.gif" alt="Baby" height="500px" />
-</div>
+
 
 
 
